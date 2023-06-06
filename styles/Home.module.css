@@ -1,5 +1,9 @@
 .container {
   padding: 0 2rem;
+  background-color: #111;
+  height: 100vh;
+  color: #cecece;
+  padding-top: 30px;
 }
 
 .main {
